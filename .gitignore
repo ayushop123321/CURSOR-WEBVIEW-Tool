@@ -31,4 +31,5 @@ dist/
 # Script files with tokens
 create-repo.ps1
 push-code.ps1
+set-default-branch.ps1
 *.token.* 
